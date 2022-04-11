@@ -3,4 +3,4 @@ This is a repo containing the Jupyter Notebook for my final project for my Unsup
 ## Code
 [Jupyter Notebook](https://github.com/richardkang96/DTSA5510/blob/main/Final%20Project.ipynb)
 ## Video Presentation
-[YouTube]()
+[YouTube](https://youtu.be/YqKVg2mnf2k)
